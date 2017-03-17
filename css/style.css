@@ -1,0 +1,106 @@
+img.avatar.circle {
+	width: 160px;
+	height:160px;
+}
+
+h1.header {
+	font-size: 40px;
+	margin-bottom: 0;
+}
+
+h5.header {
+	font-style: italic;
+}
+
+h2 {
+	font-size: 36px;
+}
+
+h3 {
+	font-size: 24px;
+	text-align: left;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+.btn {
+	color: black;
+    background-color: #fff;
+    margin:20px;
+    display:block;
+}
+
+.btn:hover  {
+    background-color: #7ca8ef;
+}
+
+.card-panel:hover{
+    background-color: #7ca8ef;
+}
+
+.card-panel.expanded:hover {
+	background-color: white;
+}
+
+.btn-in-card {
+    background-color: lightgrey;
+}
+
+.card-title {
+	margin-top: 0px;
+}
+.card-panel {
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-right: 24px;
+	padding-left: 24px;
+
+}
+
+.card-panel img {
+	display: none;
+}
+
+.card-panel.expanded img {
+	display: initial;
+}
+
+.card-panel .row {
+	display: none;
+}
+
+.card-panel.expanded .row {
+	display: initial;
+}
+
+.card-panel.expanded {
+	position: fixed;
+	left: 64px;
+	right: 64px;
+	top: 64px;
+	bottom: 64px;
+	overflow: auto;
+}
+
+.icon-row {
+	margin-top: 0;
+}
+
+.inline-icon {
+	color: inherit;
+}
+
+.inline-icon ~ .inline-icon {
+	margin-left: 16px;
+}
+
+a.inline-icon i {
+	font-size: inherit;
+	vertical-align: text-bottom;
+}
+
+.toolbox_links{
+	text-align: left;
+}
