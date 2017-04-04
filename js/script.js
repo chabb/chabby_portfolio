@@ -7,7 +7,7 @@ function main(){
 		img: 'images/smartscan.png',
 		title: 'SmartScan', 
 		description: "SmartScan is a website that proposes different OCR library for smartphones",
-		id: 'smartScan',
+		id: 'smartScan Website',
 		link: 'http://smartscan.icare.ch'
 	}, {
 		img: 'images/breitlingb55.png',
@@ -23,13 +23,13 @@ function main(){
 		link: 'https://www.breitling.com/en/campaigns/exospace-b55-connected'
 	}, {
 		img: 'images/flarePlot.png',
-		title: 'FlarePlot',
+		title: 'FlarePlot Visualization',
 		description: "FlarePlot is a plot designed to see evolutions of network over time",
 		id: 'flarePlot',
 		link: 'http://rasmusfonseca.github.io/EvoBundle/gpcr_demo2/'
 	}, {
 		img: 'images/techo-vert.png',
-		title: 'Technopole vert',
+		title: 'Technopole vert Visualization',
 		description: "Technopole Vert (a.k.a 'Green technopole') is an information system that retrieves measures" +
 		" from sensors. It stores in a database (MongoDB) the electrical production of solar panels installed on the roof a given building, " +
 		" and stores the electrical of the consumption of this building. A visualization has been designed on the top" +
@@ -38,7 +38,7 @@ function main(){
 		link: 'http://www.technopole-vert.ch'
 	}, {
 		img: 'images/dominoPlot.png',
-		title: 'dominoPlot',
+		title: 'dominoPlot Visualization',
 		description: "Traditionally, Venn Diagram are used to visualize multiple sets and their intersections." +
 		". When more than 4 sets are presents, these diagrams tend to be very messy." + "" +
 		"DominoPlot is new type of chart that has been created to allow an easy and interactive visualisations of " +
@@ -47,7 +47,7 @@ function main(){
 		link: 'http://zemihlebach.github.io/dominoPlot/'
 	}, {
         img: 'images/smartscan.png',
-        title: 'Natcap',
+        title: 'Natural capital dashboard',
         description: "natcap project",
         id: 'natcap',
         link: 'https://charlottegiseleweil.github.io/webviz_natcap/'
