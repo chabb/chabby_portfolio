@@ -5,19 +5,16 @@ $(function(){
 function main(){
 	let current_infos = [{
 		img: 'images/smartscan.png',
-		title: 'SmartScan', 
-		description: "SmartScan is a website that proposes different OCR library for smartphones",
+		title: 'SmartScan WEBSITE', 
+		description: "SmartScan website proposes several OCR libraries for smartphones. KESKE T'AS FAIT EXACTEMENT?",
 		id: 'smartScan Website',
 		link: 'http://smartscan.icare.ch'
 	}, {
 		img: 'images/breitlingb55.png',
-		title: 'Exospace B55',
+		title: 'Exospace B55 App',
 		description:
-			"The Exospace B55 connected chronograph houses an exclusive movement endowed with" +
-			"a range of original functions tailor-made for pilots. " +
-			"The user thus enjoys the optimal comfort of the phone for performing certain adjustments and, conversely," +
-			"can download the results of certain measurements to the smartphone as well as receive notifications." +
-			"I implemented the iOS application used by this watch, and designed the specifation of the bluetooth " +
+			"The Exospace B55 connected watch offers functionalities tailored for pilots. " +
+			"I implemented the watch's iOS application and designed the bluetooth specification for" +
 				" communication between the watch and the smartphone",
 		id: 'breitling',
 		link: 'https://www.breitling.com/en/campaigns/exospace-b55-connected'
@@ -48,7 +45,10 @@ function main(){
 	}, {
         img: 'images/smartscan.png',
         title: 'Natural capital dashboard`',
-        description: "natcap project",
+        description: "The Upper Tana Nairobi Water Fund aims to improve water quality and supply for the Nairobi region, in Kenya. "+
+		"To do so while preserving natural capital and managing landscapes sustainably, several interventions could to be undertaken on the watersheds."+
+		" To optimize the conservation strategy, a multi-objective optimization has been conducted by the Natural Capital Project. This interactive visualization dashboard allows to explore the complex dataset,"+
+		"allowing to visualize tradeoffs between objectives, correlations between metrics, compare scenarios and assess uncertainty.",
         id: 'natcap',
         link: 'https://charlottegiseleweil.github.io/webviz_natcap/'
 	}];
