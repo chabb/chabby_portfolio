@@ -47,7 +47,7 @@ function main(){
 		link: 'http://zemihlebach.github.io/dominoPlot/'
 	}, {
         img: 'images/smartscan.png',
-        title: 'Natural capital dashboard',
+        title: 'Natural capital dashboard`',
         description: "natcap project",
         id: 'natcap',
         link: 'https://charlottegiseleweil.github.io/webviz_natcap/'
@@ -62,7 +62,7 @@ function main(){
             noImage: true
         },
         {
-            title: 'FCGridView',
+            title: 'FCGridView Library',
             description: "A library that implement a gridlayout using constraints, written in Objective-C.",
             id: 'fcgridview',
             link: 'https://github.com/zemihlebach/FCGridView',
