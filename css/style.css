@@ -107,3 +107,7 @@ a.inline-icon i {
 .toolbox_links{
 	text-align: left;
 }
+
+.hidden {
+	visibility: hidden;
+}
