@@ -6,7 +6,7 @@ function main(){
 	let current_infos = [{
 		img: 'images/smartscan.png',
 		title: 'SmartScan WEBSITE', 
-		description: "SmartScan website proposes several OCR libraries for smartphones. KESKE T'AS FAIT EXACTEMENT?",
+		description: "SmartScan website proposes several OCR libraries for smartphones. KESKE T'AS FAIT EXACTEMENT??",
 		id: 'smartScan Website',
 		link: 'http://smartscan.icare.ch'
 	}, {
@@ -21,31 +21,28 @@ function main(){
 	}, {
 		img: 'images/flarePlot.png',
 		title: 'FlarePlot Visualization',
-		description: "FlarePlot is a plot designed to see evolutions of network over time",
+		description: "FlarePlot is a plot designed to see evolutions of network over time NEED DETAILS MEC, CA DIT RIEN LA",
 		id: 'flarePlot',
 		link: 'http://rasmusfonseca.github.io/EvoBundle/gpcr_demo2/'
 	}, {
 		img: 'images/techo-vert.png',
 		title: 'Technopole vert Visualization',
-		description: "Technopole Vert (a.k.a 'Green technopole') is an information system that retrieves measures" +
-		" from sensors. It stores in a database (MongoDB) the electrical production of solar panels installed on the roof a given building, " +
-		" and stores the electrical of the consumption of this building. A visualization has been designed on the top" +
-			"of this system. I built the various part of this system",
+		description: "Technopole Vert (i.e. 'Green technopole') is an information system that retrieves measurements" +
+		" from sensors and stores the electrical production (by solar panels) and building consumption data.(revoir maybe) A visualization has been designed (BY WHO!?) on the top" +
+			"of this system. I built the various part of this system (UNCLEAR WHAT YOU DID)",
 		id: 'tp-vert',
 		link: 'http://www.technopole-vert.ch'
 	}, {
 		img: 'images/dominoPlot.png',
 		title: 'dominoPlot Visualization',
-		description: "Traditionally, Venn Diagram are used to visualize multiple sets and their intersections." +
-		". When more than 4 sets are presents, these diagrams tend to be very messy." + "" +
-		"DominoPlot is new type of chart that has been created to allow an easy and interactive visualisations of " +
-		" multiple sets.",
+		description: "DominoPlot is new type of chart that has been created to allow an easy and interactive visualisations of " +
+		" multiple sets, offering an alternative to Venn diagrams which fail to present clearly a large number of sets.",
 		id: 'dominoPlot',
 		link: 'http://zemihlebach.github.io/dominoPlot/'
 	}, {
         img: 'images/smartscan.png',
         title: 'Natural capital dashboard`',
-        description: "The Upper Tana Nairobi Water Fund aims to improve water quality and supply for the Nairobi region, in Kenya. "+
+        description: " (n'hésites pas à simplifier)The Upper Tana Nairobi Water Fund aims to improve water quality and supply for the Nairobi region, in Kenya. "+
 		"To do so while preserving natural capital and managing landscapes sustainably, several interventions could to be undertaken on the watersheds."+
 		" To optimize the conservation strategy, a multi-objective optimization has been conducted by the Natural Capital Project. This interactive visualization dashboard allows to explore the complex dataset,"+
 		"allowing to visualize tradeoffs between objectives, correlations between metrics, compare scenarios and assess uncertainty.",
@@ -56,7 +53,7 @@ function main(){
 	let older_infos = [
         {
             title: 'D3 Blocks',
-            description: "A lot of experimentations in D3. Some of these are worth taking a look",
+            description: "A lot of experimentations in D3. Some of these are worth taking a look (TEXT NUL, zéro informations. SOME: which?)",
             id: 'blocks',
             link: 'https://bl.ocks.org/zemihlebach',
             noImage: true
@@ -70,7 +67,7 @@ function main(){
         },
         {
             title: 'Bachelor thesis/Ninapro',
-            description: "The goal of this bachelor thesis was to build a information system that was able to store data of electromyograms",
+            description: "The goal of this bachelor thesis was to build a information system that was able to store data of electromyograms (définir electrmiograms)",
             id: 'ninapro',
             link: 'ninapro',
             noImage: true
