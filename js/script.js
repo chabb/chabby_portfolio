@@ -55,7 +55,7 @@ function main(){
             title: 'D3 Blocks',
             description: "Various experiments with D3. Some are attempts to describe algorithms, some are small games",
             id: 'blocks',
-            link: 'https://bl.ocks.org/zemihlebach',
+            link: 'https://bl.ocks.org/chabb',
             noImage: true
         },
         {
