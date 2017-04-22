@@ -6,8 +6,8 @@ function main(){
 	let current_infos = [{
 		img: 'images/smartscan.png',
 		title: 'SmartScan WEBSITE', 
-		description: "SmartScan website proposes several OCR libraries for smartphones. KESKE T'AS FAIT EXACTEMENT??",
-		id: 'smartScan Website',
+		description: "SmartScan website proposes several OCR libraries for smartphones. I designed and coded the website",
+		id: 'smartScan',
 		link: 'http://smartscan.icare.ch'
 	}, {
 		img: 'images/breitlingb55.png',
@@ -21,28 +21,28 @@ function main(){
 	}, {
 		img: 'images/flarePlot.png',
 		title: 'FlarePlot Visualization',
-		description: "FlarePlot is a plot designed to see evolutions of network over time NEED DETAILS MEC, CA DIT RIEN LA",
+		description: "FlarePlot is a plot designed to display neuroreceptors and their interactions.",
 		id: 'flarePlot',
 		link: 'http://rasmusfonseca.github.io/EvoBundle/gpcr_demo2/'
 	}, {
 		img: 'images/techo-vert.png',
 		title: 'Technopole vert Visualization',
 		description: "Technopole Vert (i.e. 'Green technopole') is an information system that retrieves measurements" +
-		" from sensors and stores the electrical production (by solar panels) and building consumption data.(revoir maybe) A visualization has been designed (BY WHO!?) on the top" +
-			"of this system. I built the various part of this system (UNCLEAR WHAT YOU DID)",
+		" from sensors and stores the electrical production (by solar panels) and building consumption data. A visualization has been designed on the top" +
+			"of this system. I built the full system",
 		id: 'tp-vert',
 		link: 'http://www.technopole-vert.ch'
 	}, {
 		img: 'images/dominoPlot.png',
 		title: 'dominoPlot Visualization',
-		description: "DominoPlot is new type of chart that has been created to allow an easy and interactive visualisations of " +
+		description: "DominoPlot is new type of chart that I created to allow an easy and interactive visualisations of " +
 		" multiple sets, offering an alternative to Venn diagrams which fail to present clearly a large number of sets.",
 		id: 'dominoPlot',
-		link: 'http://zemihlebach.github.io/dominoPlot/'
+		link: 'http://chabb.github.io/dominoPlot/'
 	}, {
-        img: 'images/smartscan.png',
-        title: 'Natural capital dashboard`',
-        description: " (n'hésites pas à simplifier)The Upper Tana Nairobi Water Fund aims to improve water quality and supply for the Nairobi region, in Kenya. "+
+        img: 'images/naturcap.png',
+        title: 'Natural capital dashboard',
+        description: "The Upper Tana Nairobi Water Fund aims to improve water quality and supply for the Nairobi region, in Kenya. "+
 		"To do so while preserving natural capital and managing landscapes sustainably, several interventions could to be undertaken on the watersheds."+
 		" To optimize the conservation strategy, a multi-objective optimization has been conducted by the Natural Capital Project. This interactive visualization dashboard allows to explore the complex dataset,"+
 		"allowing to visualize tradeoffs between objectives, correlations between metrics, compare scenarios and assess uncertainty.",
@@ -53,7 +53,7 @@ function main(){
 	let older_infos = [
         {
             title: 'D3 Blocks',
-            description: "A lot of experimentations in D3. Some of these are worth taking a look (TEXT NUL, zéro informations. SOME: which?)",
+            description: "Various experiments with D3. Some are attempts to describe algorithms, some are small games",
             id: 'blocks',
             link: 'https://bl.ocks.org/zemihlebach',
             noImage: true
@@ -62,7 +62,7 @@ function main(){
             title: 'FCGridView Library',
             description: "A library that implement a gridlayout using constraints, written in Objective-C.",
             id: 'fcgridview',
-            link: 'https://github.com/zemihlebach/FCGridView',
+            link: 'https://github.com/chabb/FCGridView',
 			noImage: true
         },
         {
